@@ -1,5 +1,5 @@
 #while summation code following directions from Readme
-num = int(input("Enter a positive number: "))
+num = int(input(""))
 loops = 0
 sum = 0
 while loops < num:
