@@ -1,5 +1,5 @@
 #for Summation code here
-num = int(input("Enter a positive number: "))
+num = int(input(""))
 loops = 0
 sum = 0
 for loops in range(num):
