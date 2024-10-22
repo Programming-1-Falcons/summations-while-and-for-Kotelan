@@ -5,4 +5,4 @@ sum = 0
 for loops in range(num):
     loops = loops +1
     sum = sum + loops
-print("The summation of " + str(num) + " is " + str(sum))
+print(str(sum))
